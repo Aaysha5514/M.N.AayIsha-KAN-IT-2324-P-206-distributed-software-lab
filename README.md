@@ -1,1 +1,3 @@
-# M.N.AayIsha-KAN-IT-2324-P-206-distributed-software-lab
+My Name : Aaysha
+Course : HNDIT
+This is my GitHub lab Work
